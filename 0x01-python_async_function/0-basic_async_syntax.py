@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """This script is an async coroutine that randomly await
 a number range."""
 import random
